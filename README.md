@@ -13,7 +13,7 @@ Os arquétipos do tarô foram escolhidos tanto como metáforas quanto como conce
 Obrigada! 🔮
 --------------------------------------------------------------------------------------------------------------------
 
-#The History of Difference
+# The History of Difference
 
 Hello there! I’m Vitória, an iOS development student in Apple Developer Academy, based in Federal University of Pernambuco (UFPE). This project is the result of our second challenge. Some of the tools I used were Xcode, UIKit framework, as well as Figma for prototyping and creating the design concept. For the challenge we were supposed to learn how to work using tab bars, navigation between different screens (or views) and to learn initial notions of autolayout. 
 
